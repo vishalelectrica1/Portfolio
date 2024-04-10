@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+}
+.page1{
+    display:block;
+    padding-bottom: 275px;
+    width: 800px;
+    margin-top: 0px;
+}
+.page2{
+    padding: 50px 0px;
+    line-height: 50px;
+    width: 800px;
+}
+.page3{
+    width: 750px;
+
+}
+.page4{
+    width: 750px;
+}
+.page5{
+   width: 800px;     
+}
+.picture{
+    padding-right: 500px;
+}
+.pic{
+    margin-right: 5000px;
+}
+.navbar{
+    display: block;
+    justify-content: center;
+}
+.port{
+    text-align: center;
+}
+.right{
+    display: block;
+    justify-content: center;
+    
+}
+.menubar{
+    width: 80px;
+   margin-left: 250px;
+}
+.page2{
+    display: block;
+    justify-content:center;
+}
+.img{
+    margin-left: 240px;
+    margin-top: 15px;
+}
